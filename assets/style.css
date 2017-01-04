@@ -1,0 +1,17 @@
+nav.menu{
+  text-align:center;
+  
+}
+#info{
+  list-style:none;
+}
+.contenul{
+  list-style:none;
+  margin-left:50px;
+}
+#titrecv{
+  text-align:center;
+}
+.menu li{
+  display:inline;
+}
