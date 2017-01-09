@@ -19,6 +19,7 @@ nav.menu{
 #cv{
   width : 20cm;
   height : 29cm;
+  margin-left:30%;
 }
 body{
   background-color:#848484;
@@ -38,8 +39,14 @@ body{
 #jeux{
   font-size:1.2em;
 }
+#gal{
+  font-size:1.4em;
+}
 img{
-width:33%;
+width:45%;
 height:auto;
 }
-contact
+#contact{
+  font-size:1.2em;
+  text-align:center;
+}
