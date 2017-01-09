@@ -1,6 +1,7 @@
 nav.menu{
   text-align:center;
-  
+  font-family: "Sans-serif";
+  font-size:1.5em;
 }
 #info{
   list-style:none;
@@ -15,3 +16,30 @@ nav.menu{
 .menu li{
   display:inline;
 }
+#cv{
+  width : 20cm;
+  height : 29cm;
+}
+body{
+  background-color:#848484;
+}
+#intro{
+  font-size:1.5em;
+  text-align:center;
+  
+}
+#map{
+  margin-left: 35%;
+}
+#fintro{
+  font-size:1.5em;
+  text-align:center;
+}
+#jeux{
+  font-size:1.2em;
+}
+img{
+width:33%;
+height:auto;
+}
+contact
