@@ -50,3 +50,57 @@ height:auto;
   font-size:1.2em;
   text-align:center;
 }
+@media screen and (max-width:800px){
+  nav.menu{
+  text-align:center;
+  font-family: "Sans-serif";
+  font-size:1.5em;
+}
+#info{
+  list-style:none;
+}
+.contenul{
+  list-style:none;
+  margin-left:50px;
+}
+#titrecv{
+  text-align:center;
+}
+.menu li{
+  display:block;
+}
+#cv{
+  width : 20cm;
+  height : 29cm;
+  margin-left:30%;
+}
+body{
+  background-color:#848484;
+}
+#intro{
+  font-size:1.5em;
+  text-align:center;
+  
+}
+#map{
+  margin-left:0%;
+}
+#fintro{
+  font-size:1.5em;
+  text-align:center;
+}
+#jeux{
+  font-size:1.2em;
+}
+#gal{
+  font-size:1.4em;
+}
+img{
+width:45%;
+height:auto;
+}
+#contact{
+  font-size:1.2em;
+  text-align:center;
+}
+}
